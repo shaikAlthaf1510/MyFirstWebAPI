@@ -1,2 +1,3 @@
 Adding line to check clone demo file from branch to check in sample branch
 Adding second line to push change from local to remote repo github
+Adding line to check  merge option from sample to demo
